@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\admin",
+    "\\src\\app\\admin\\admin-orders",
+    "\\src\\app\\admin\\admin-products",
+    "\\src\\app\\carousel",
+    "\\src\\app\\my-orders",
+    "\\src\\app\\order-success",
+    "\\src\\assets"
+  ],
+  "SelectedNode": "\\src\\app\\admin-auth-guard.service.ts",
+  "PreviewInSolutionExplorer": false
+}
